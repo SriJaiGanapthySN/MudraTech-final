@@ -1,4 +1,4 @@
-import React from 'react';
+import {useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
@@ -8,6 +8,9 @@ import Expertise from './pages/Expertise';
 import Experience from './pages/Experience';
 
 function App() {
+  useEffect(() => {
+    document.title = 'Mudra Technologies'; 
+  }, []);
   return (
     <Router>
       <div className="flex flex-col min-h-screen">
