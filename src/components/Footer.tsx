@@ -24,14 +24,14 @@ const Footer = () => {
             </div>
           </div>
 
-          <div>
+          {/* <div>
             <h3 className="text-xl font-bold mb-4">Quick Links</h3>
             <ul className="space-y-2">
               <li><a href="/products" className="hover:text-blue-400 transition-colors">Products</a></li>
               <li><a href="/expertise" className="hover:text-blue-400 transition-colors">Expertise</a></li>
               <li><a href="/experience" className="hover:text-blue-400 transition-colors">Experience</a></li>
             </ul>
-          </div>
+          </div> */}
 
          
         </div>
