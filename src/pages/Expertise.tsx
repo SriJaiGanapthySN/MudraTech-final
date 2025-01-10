@@ -29,7 +29,7 @@ const Expertise = () => {
                   transition={{ duration: 0.8 }}
                   className="text-center mb-16"
                 >
-                  <p className="text-lg text-gray-600 max-w-3xl mx-auto my-10">
+                  <p className="text-lg text-gray-600 max-w-3xl mx-auto my-10 text-left text-justify">
                   At Mudra Technologies, we have strategically focused our expertise on domains that reflect our commitment to precision and reliability. Our core competencies lie in the design and development of advanced weighing solutions, including weighbridges, industrial weighing scales, and tank weighing systems.
 
 Each solution is crafted with meticulous attention to detail to meet the specific needs of our clients. By concentrating on these areas, we ensure that our products not only meet industry standards but also offer unparalleled accuracy and durability. Mudra Technologies is dedicated to empowering businesses with tools that enhance efficiency and accuracy, supporting industries that rely on precise measurements for their operations.

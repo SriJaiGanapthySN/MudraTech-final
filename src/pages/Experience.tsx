@@ -28,7 +28,7 @@ const Experience = () => {
                   transition={{ duration: 0.8 }}
                   className="text-center mb-16"
                 >
-                  <p className="text-lg text-gray-600 max-w-3xl mx-auto my-10 ">
+                  <p className="text-lg text-gray-600 max-w-3xl mx-auto my-10 text-left text-justify">
                   With over 25 years of experience, Mudra Technologies has proudly reached a significant milestone, celebrating the silver jubilee of our trusted brand, Digiweigh. Throughout the years, we have connected with more than 1 lakh customers, providing reliable and innovative solutions that have strengthened our bond with the community we serve.
 
 Our journey is defined by a commitment to quality, precision, and customer satisfaction. We are dedicated to leveraging our extensive expertise to deliver unparalleled products and services, always focused on exceeding expectations and advancing the standards in our industry.
