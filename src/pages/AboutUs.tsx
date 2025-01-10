@@ -38,7 +38,7 @@ const AboutUs = () => {
             className="text-center mb-16"
           >
             <h2 className="text-3xl font-bold text-gray-900 mb-4">Who We Are</h2>
-            <p className="text-lg text-gray-600 max-w-3xl mx-auto">
+            <p className="text-lg text-gray-600 max-w-3xl mx-auto text-justify">
             At Mudra Technologies, we are committed to delivering unparalleled value to our customers by blending innovation with efficiency. Our brand ethos is built on providing unique and tailored solutions that cater to the evolving needs of our clients. With a dedication to excellence, we strive to serve our customers in the most efficient and effective manner, ensuring that every interaction is meaningful and every service is impactful.
 
 We believe that true success comes from understanding our clients’ goals and challenges. By fostering a culture of trust and reliability, we aim to build lasting relationships that go beyond the typical service-provider dynamic. At Mudra Technologies, our mission is to empower our customers through technology, making their lives easier, more productive, and more connected.
